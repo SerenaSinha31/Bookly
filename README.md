@@ -1,1 +1,6 @@
-Technologies Used- Php, Javascript, Css, MySql(database)
+# Technologies Used
+
+- **PHP**
+- **JavaScript**
+- **CSS**
+- **MySQL (Database)**
